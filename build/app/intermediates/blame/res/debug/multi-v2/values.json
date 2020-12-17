@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/alisson/Documents/Projetos/flutter-bloc-cubit-tutorial/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/alisson/Documents/Projetos/pinterest_clone_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/alisson/Documents/Projetos/flutter-bloc-cubit-tutorial/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/alisson/Documents/Projetos/pinterest_clone_app/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
