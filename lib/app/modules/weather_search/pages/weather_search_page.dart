@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_cubit_bloc_tutorial/app/modules/weather_search/cubit/weather_cubit.dart';
-import 'package:flutter_cubit_bloc_tutorial/app/shared/models/weather_model.dart';
+import 'package:flutter_cubit_bloc_tutorial/app/modules/weather_search/models/weather_model.dart';
 
 class WeatherSearchPage extends StatefulWidget {
   @override

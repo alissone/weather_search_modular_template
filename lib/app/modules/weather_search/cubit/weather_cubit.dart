@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:flutter_cubit_bloc_tutorial/app/modules/weather_search/repositories/weather_repository.dart';
-import 'package:flutter_cubit_bloc_tutorial/app/shared/models/weather_model.dart';
+import 'package:flutter_cubit_bloc_tutorial/app/modules/weather_search/models/weather_model.dart';
 import 'package:meta/meta.dart';
 
 part 'weather_state.dart';

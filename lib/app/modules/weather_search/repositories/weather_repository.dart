@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:flutter_cubit_bloc_tutorial/app/shared/models/weather_model.dart';
+import 'package:flutter_cubit_bloc_tutorial/app/modules/weather_search/models/weather_model.dart';
 
 abstract class WeatherRepository {
   /// Throws [NetworkException].
