@@ -1,6 +1,7 @@
+import 'package:equatable/equatable.dart';
 import 'package:meta/meta.dart';
 
-class Weather {
+class Weather extends Equatable {
   final String cityName;
   final double temperatureCelsius;
 
@@ -20,4 +21,7 @@ class Weather {
 
   @override
   int get hashCode => cityName.hashCode ^ temperatureCelsius.hashCode;
+
+  @override
+  List<Object> get props => [cityName, temperatureCelsius];
 }
