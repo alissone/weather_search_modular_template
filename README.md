@@ -1,12 +1,5 @@
-# Flutter Bloc & Cubit Tutorial
+# Flutter Bloc & Cubit Tutorial using Modular from flutterando
 
-### Learn from :point_right: [this post](https://resocoder.com/flutter-bloc-cubit) :point_left:.
+#### This repository is based on https://github.com/ResoCoder/flutter-bloc-cubit-tutorial
 
-#### _Find more tutorials on [resocoder.com](https://resocoder.com)_
-
-<br />
-<br />
-
-[![Reso Coder](https://resocoder.com/wp-content/uploads/2019/09/logo_with_text_signature.png)](https://resocoder.com)
-<br />
-_Be prepared for **real** app development_
+It should serve as a starting point for apps using Cubit as state management tool and Modular to manage routes, with a well defined and scalable structure
